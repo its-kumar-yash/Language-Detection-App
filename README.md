@@ -2,7 +2,7 @@
 
 ### 1. Develop and save the model with this Colab
 
-[Open Colab]([https://colab.research.google.com/drive/1uaALcaatvxOu42IhQA4r0bahfdpw-Z7v?usp=sharing](https://colab.research.google.com/drive/1cvE5SWsrMizNjEd20iqX8-pqHO8kxXe3?usp=sharing))
+[Open Notebook](https://colab.research.google.com/drive/1cvE5SWsrMizNjEd20iqX8-pqHO8kxXe3?usp=sharing)
 
 ### 2. Create Docker container
 
